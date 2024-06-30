@@ -9,7 +9,7 @@
     "dev": "node --watch index.js"
   },
   "keywords": [],
-  "author": "Eric Arancibia",
+  "author": "Nicolas Espinoza",
   "license": "MIT",
   "dependencies": {
     "dotenv": "^16.4.5",
